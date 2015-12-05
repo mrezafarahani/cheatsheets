@@ -1,5 +1,5 @@
 #Cheat Sheet for Git
-Source: [https:#github.com/luisbg/git-cheat-sheet](https:#github.com/luisbg/git-cheat-sheet)
+Source: [https://github.com/luisbg/git-cheat-sheet](https://github.com/luisbg/git-cheat-sheet)
 ##Configure
 ```
 # Sets the name you want attached to your commit transactions
