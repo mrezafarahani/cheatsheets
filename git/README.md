@@ -2,7 +2,7 @@
 Source: [https://github.com/luisbg/git-cheat-sheet](https://github.com/luisbg/git-cheat-sheet)
 
 Command | Description
--- | --
+--- | ---
 git add '*.txt' | Add only certain files
 git add . | Add all modified files to be commited
 git add [file] | Snapshots the file in preparation for versioning

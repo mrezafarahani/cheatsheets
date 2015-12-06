@@ -1,6 +1,6 @@
 Source: [http://www.skorks.com/2009/09/bash-shortcuts-for-maximum-productivity/](http://www.skorks.com/2009/09/bash-shortcuts-for-maximum-productivity/)
 Shortcut | Description
--- | --
+--- | ---
 Alt + B | Move cursor backward one word on the current line
 Alt + C | Capitalize to end of word starting at cursor (whole word if cursor is at the beginning of word)
 Alt + D | Delete to end of word starting at cursor (whole word if cursor is at the beginning of word)
