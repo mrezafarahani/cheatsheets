@@ -1,4 +1,5 @@
 Source: [http://www.skorks.com/2009/09/bash-shortcuts-for-maximum-productivity/](http://www.skorks.com/2009/09/bash-shortcuts-for-maximum-productivity/)
+
 Shortcut | Description
 --- | ---
 Alt + B | Move cursor backward one word on the current line
