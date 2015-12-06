@@ -1,6 +1,7 @@
 Sources:
 * [http://www.skorks.com/2009/09/bash-shortcuts-for-maximum-productivity/](http://www.skorks.com/2009/09/bash-shortcuts-for-maximum-productivity/)
 * [http://ss64.com/bash/syntax-keyboard.html](http://ss64.com/bash/syntax-keyboard.html)
+* [http://superuser.com/a/421468](http://superuser.com/a/421468)
 
 Shortcut | Description
 --- | ---
