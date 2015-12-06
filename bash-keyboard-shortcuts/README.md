@@ -1,12 +1,13 @@
+Source: [http://www.skorks.com/2009/09/bash-shortcuts-for-maximum-productivity/](http://www.skorks.com/2009/09/bash-shortcuts-for-maximum-productivity/)
 Shortcut|Description
 --|--
 Alt + B|Move cursor backward one word on the current line
 Alt + C|Capitalize to end of word starting at cursor (whole word if cursor is at the beginning of word)
 Alt + D|Delete to end of word starting at cursor (whole word if cursor is at the beginning of word)
 Alt + F|Move cursor forward one word on the current line
-Alt + U|Make uppercase from cursor to end of word
 Alt + L|Make lowercase from cursor to end of word
 Alt + T|Swap current word with previous
+Alt + U|Make uppercase from cursor to end of word
 Ctrl + A|Go to the beginning of the line you are currently typing on
 Ctrl + B|Move backward one character
 Ctrl + C|Kill whatever you are running
