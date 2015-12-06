@@ -17,6 +17,7 @@ Alt + p | Non-incremental reverse search of history
 Alt + r | Cancel the changes and put back the line as it was in the history (revert)
 Alt + t | Swap current word with previous
 Alt + u | Make uppercase from cursor to end of word
+Alt + x | Toggle between the start of line and current cursor position
 Ctrl + Ins | Copy to the clipboard
 Ctrl + _ | Undo
 Ctrl + a | Go to the beginning of the line you are currently typing on
@@ -27,8 +28,9 @@ Ctrl + d | Exit the current shell/delete character under the cursor
 Ctrl + e | Go to the end of the line you are currently typing on
 Ctrl + f | Move forward one character
 Ctrl + g | Escape from history searching mode
-Ctrl + h | Delete character before the cursor (like a backspace)
-Ctrl + j | Runs the currently entered command
+Ctrl + h | Delete character before the cursor (like a Backspace)
+Ctrl + i | Auto-complete files and folder names (like Tab)
+Ctrl + j | Runs the currently entered command (like Enter)
 Ctrl + k | Clear the line after the cursor
 Ctrl + l | Clears the Screen, similar to the clear command
 Ctrl + m | Runs the currently entered command
@@ -43,6 +45,7 @@ Ctrl + u | Clears the line before the cursor position. If you are at the end of 
 Ctrl + v | Insert the following character literally without performing any action
 Ctrl + V | Paste in modern gui terminal programs like gnome-terminal
 Ctrl + w | Delete the word before the cursor
+Ctrl + x | Toggle between the start of line and current cursor position
 Ctrl + y | Paste word or text that was cut using one of the deletion shortcuts (such as the one above) after the cursor
 Ctrl + z | Puts whatever you are running into a suspended background process. fg restores it.
 Esc + Del | Deletes previous word
